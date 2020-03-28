@@ -20,7 +20,7 @@
  ******************************************************************************************/
 #include "MainWindow.h"
 #include "Game.h"
-
+// this is a useless comment
 Game::Game( MainWindow& wnd )
 	:
 	wnd( wnd ),
